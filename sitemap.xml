@@ -3,23 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ivanli.github.io/blog/posts/2018-08-06-my-first-post/</loc>
-    <lastmod>2018-08-05T14:17:18+12:00</lastmod>
+    <loc>https://iky.li/posts/2018-08-02-read-my-readme/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ivanli.github.io/blog/</loc>
-    <lastmod>2018-08-05T14:17:18+12:00</lastmod>
+    <loc>https://iky.li/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ivanli.github.io/blog/posts/</loc>
-    <lastmod>2018-08-05T14:17:18+12:00</lastmod>
+    <loc>https://iky.li/posts/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ivanli.github.io/blog/tags/</loc>
+    <loc>https://iky.li/tags/readme/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iky.li/tags/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

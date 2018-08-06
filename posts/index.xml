@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on IKY.LI - Ivan&#39;s Blog</title>
-    <link>https://ivanli.github.io/blog/posts/</link>
-    <description>Recent content in Posts on IKY.LI - Ivan&#39;s Blog</description>
+    <title>Posts on IKY.LI - It&#39;s Ivan</title>
+    <link>https://iky.li/posts/</link>
+    <description>Recent content in Posts on IKY.LI - It&#39;s Ivan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>ivankyli@gmail.com (Ivan Li)</managingEditor>
-    <webMaster>ivankyli@gmail.com (Ivan Li)</webMaster>
-    <lastBuildDate>Sun, 05 Aug 2018 14:17:18 +1200</lastBuildDate>
+    <managingEditor>me@iky.li (Ivan Li)</managingEditor>
+    <webMaster>me@iky.li (Ivan Li)</webMaster>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ivanli.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iky.li/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://ivanli.github.io/blog/posts/2018-08-06-my-first-post/</link>
-      <pubDate>Sun, 05 Aug 2018 14:17:18 +1200</pubDate>
-      <author>ivankyli@gmail.com (Ivan Li)</author>
-      <guid>https://ivanli.github.io/blog/posts/2018-08-06-my-first-post/</guid>
-      <description>Hello world!</description>
+      <title>Read my README</title>
+      <link>https://iky.li/posts/2018-08-02-read-my-readme/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <author>me@iky.li (Ivan Li)</author>
+      <guid>https://iky.li/posts/2018-08-02-read-my-readme/</guid>
+      <description>This README is a documentation of me. Reading this, you can get a good gist of what I do and what I&amp;rsquo;m here to achieve in the F&amp;amp;P CPAP software team.
+Important: NOT a replacement for actually getting to know each other more.
+My Job I&amp;rsquo;m the outcome owner for DevOps sub-team in the CPAP software team. This means I&amp;rsquo;m ultimately accountable for the development and release processes adopted for the 3 sub-teams.</description>
     </item>
     
   </channel>
