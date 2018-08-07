@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>me@iky.li (Ivan Li)</managingEditor>
     <webMaster>me@iky.li (Ivan Li)</webMaster>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iky.li/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Read my README</title>
       <link>https://iky.li/posts/2018-08-02-read-my-readme/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       <author>me@iky.li (Ivan Li)</author>
       <guid>https://iky.li/posts/2018-08-02-read-my-readme/</guid>
       <description>This README is a documentation of me. Reading this, you can get a good gist of what I do and what I&amp;rsquo;m here to achieve in the F&amp;amp;P CPAP software team.
