@@ -1,6 +1,6 @@
-baseURL = "http://ivanli.github.io/blog"
+baseURL = "https://iky.li"
 languageCode = "en-us"
-title = "IKY.LI - Ivan's Blog"
+title = "IKY.LI - It's Ivan"
 
 canonifyurls  = true
 enableEmoji   = true
@@ -12,25 +12,25 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsStyle = "trac"
 
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "ikyli"
+googleAnalytics = "UA-123606967-1"
 
 [taxonomies]
   tag = "tags"
 
 [Params]
   commit = "https://github.com/ivanli/blog/tree/"
-  subtitle = "readme, blog, and possibly rants."
+  subtitle = "Contains readme, blog, and possibly rants."
   logo = "img/avatar-icon.png"
   favicon = "favicon.ico"
   dateFormat = "2 January 2006"
   rss = true
   comments = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "017033768780696316302:qal6nttcwac" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [Author]
   name = "Ivan Li"
-  email = "ivankyli@gmail.com"
+  email = "ivan@iky.li"
 
 [[menu.main]]
     name = "Blog"
