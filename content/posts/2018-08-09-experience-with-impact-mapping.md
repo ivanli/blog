@@ -8,7 +8,7 @@ type: post
 
 In recent times, I got the opportunity to apply the [Impact Mapping][1] technique designed by Gojko Adzic to the area of
 DevOps within our embedded software team. I knew about the technique a while back when Gojko made his [appearance in
-Auckland as part of the Agile Auckland meetup][2]. 
+Auckland as part of the Agile Auckland meetup almost 3 years ago][2]. 
 
 I was looking for a way to express the vision and purpose of the team, while creating a strong and obvious link to the 
 stories we will be doing everyday. Impact Mapping seemed to fit just that.
@@ -30,7 +30,8 @@ they'll be impacted by us. Often in software development, we focus a lot on feat
 miss out designing for the actual change we're trying to introduce to the world.
 
 Currently we've mapped this out within the team of developers, because developers are the main users of DevOps related
-features. I think there's huge value in involving people
+features. I think there's huge value in involving people that closer contact with customers (e.g. sales and marketing
+people).
 
 # Structure for Measurements
 
