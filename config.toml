@@ -26,7 +26,7 @@ googleAnalytics = "UA-123606967-1"
   dateFormat = "2 January 2006"
   rss = true
   comments = true
-  gcse = "017033768780696316302:qal6nttcwac" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "011435975563082698690:ozu4jqu-x80"
 
 [Author]
   name = "Ivan Li"
