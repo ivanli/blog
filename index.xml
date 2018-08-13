@@ -8,27 +8,37 @@
     <language>en-us</language>
     <managingEditor>ivan@iky.li (Ivan Li)</managingEditor>
     <webMaster>ivan@iky.li (Ivan Li)</webMaster>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iky.li/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Productivity with Kanban For One</title>
+      <link>https://iky.li/posts/kanban-for-one/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      <author>ivan@iky.li (Ivan Li)</author>
+      <guid>https://iky.li/posts/kanban-for-one/</guid>
+      <description>KanbanFor1 is a personal time management tool I&amp;rsquo;ve been using for a while now. I thought I&amp;rsquo;d share the learnings I&amp;rsquo;ve gained into the way that works best for me.
+It&amp;rsquo;s good at getting me focussed No matter what technique you use, managing your focus is an activity that requires a lot of discipline. For me, being able to stay focussed on one task gave me the biggest boost in productivity.</description>
+    </item>
+    
+    <item>
       <title>Experience With Impact Mapping</title>
-      <link>https://iky.li/posts/2018-08-09-experience-with-impact-mapping/</link>
+      <link>https://iky.li/posts/experience-with-impact-mapping/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
       <author>ivan@iky.li (Ivan Li)</author>
-      <guid>https://iky.li/posts/2018-08-09-experience-with-impact-mapping/</guid>
+      <guid>https://iky.li/posts/experience-with-impact-mapping/</guid>
       <description>In recent times, I got the opportunity to apply the Impact Mapping technique designed by Gojko Adzic to the area of DevOps within our embedded software team. I knew about the technique a while back when Gojko made his appearance in Auckland as part of the Agile Auckland meetup almost 3 years ago.
 I was looking for a way to express the vision and purpose of the team, while creating a strong and obvious link to the stories we will be doing everyday.</description>
     </item>
     
     <item>
       <title>Read my README</title>
-      <link>https://iky.li/posts/2018-08-02-read-my-readme/</link>
+      <link>https://iky.li/posts/read-my-readme/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       <author>ivan@iky.li (Ivan Li)</author>
-      <guid>https://iky.li/posts/2018-08-02-read-my-readme/</guid>
+      <guid>https://iky.li/posts/read-my-readme/</guid>
       <description>This README is a documentation of me. Reading this, you can get a good gist of what I do and what I&amp;rsquo;m here to achieve in the F&amp;amp;P CPAP software team.
 Important: NOT a replacement for actually getting to know each other more.
 My Job I&amp;rsquo;m the outcome owner for DevOps sub-team in the CPAP software team. This means I&amp;rsquo;m ultimately accountable for the development and release processes adopted for the 3 sub-teams.</description>

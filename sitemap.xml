@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iky.li/posts/2018-08-09-experience-with-impact-mapping/</loc>
+    <loc>https://iky.li/posts/kanban-for-one/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iky.li/posts/experience-with-impact-mapping/</loc>
     <lastmod>2018-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iky.li/posts/2018-08-02-read-my-readme/</loc>
+    <loc>https://iky.li/posts/read-my-readme/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://iky.li/</loc>
-    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,7 +30,13 @@
   
   <url>
     <loc>https://iky.li/posts/</loc>
-    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iky.li/tags/productivity/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
