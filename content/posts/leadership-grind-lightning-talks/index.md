@@ -63,8 +63,20 @@ Low impact agreements do not require as strong of an alignment as high impact ag
 dimension that often gets forgotten about. We fall into the societal norm of trying to include everyone as equals in the
 decision making process, so we end up aiming to have consent rather than consensus.
 
+So how would you go about applying this?
+
+1. Ask and explain about consensus --- it's a level of agreement necessary for the decision, does not mean everyone
+   needs to be in perfect agreement.
+1. Ask the group what level of agreement is needed. Explain with examples: Choosing a place for lunch vs choosing a
+   technology to work with for the next 10 years.
+1. Write down the proposal clearly --- this is strongly recommended to clarify any differences in understanding because
+   of verbal communication.
+1. Poll the group. Interpret the results depending on the level of agreement necessary.
+1. If it's not enough, focus the discussion on the people who are least in agreement. Ask them what needs to change to
+   allow them to agree more.
+1. Repeat the polling.
+
 **Moving forward:**
 
-1. Next group decision --- introduce this gradient, ask the group what level of agreement is needed for the decision,
-   and poll the group.
+1. For us, at the next group decision, introduce this.
 
