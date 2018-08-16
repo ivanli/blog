@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>ivan@iky.li (Ivan Li)</managingEditor>
     <webMaster>ivan@iky.li (Ivan Li)</webMaster>
-    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iky.li/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leadership Grind Lightning Talks</title>
+      <link>https://iky.li/posts/leadership-grind-lightning-talks/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <author>ivan@iky.li (Ivan Li)</author>
+      <guid>https://iky.li/posts/leadership-grind-lightning-talks/</guid>
+      <description>The Leadership Grind meetup held a lightning talk night on 15 August 2018. A few of us from the team went along and took away some learnings and insights.
+Here&amp;rsquo;s what stood out for me on the night.
+Recognition and Feedback It&amp;rsquo;s great to see Xero performing internal research on it&amp;rsquo;s own ability to give recognition to employees. Not many companies travel down this road of retrospection and are comfortable with sharing the results and learnings.</description>
+    </item>
     
     <item>
       <title>Productivity with Kanban For One</title>
