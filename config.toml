@@ -21,7 +21,7 @@ googleAnalytics = "UA-123606967-1"
 [Params]
   commit = "https://github.com/ivanli/blog/tree/"
   subtitle = "Contains readme, blog, and possibly rants."
-  logo = "img/avatar-icon.png"
+  logo = "img/avatar-icon.jpeg"
   favicon = "img/favicon.png"
   dateFormat = "2 January 2006"
   rss = true
