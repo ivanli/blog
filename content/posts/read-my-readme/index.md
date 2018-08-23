@@ -1,7 +1,7 @@
 ---
 title: Read my README
 date: 2018-08-07
-tags: ["readme"]
+tags: ["way-of-being"]
 type: post
 ---
 
