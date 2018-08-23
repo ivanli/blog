@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>ivan@iky.li (Ivan Li)</managingEditor>
     <webMaster>ivan@iky.li (Ivan Li)</webMaster>
-    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iky.li/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taking Extreme Ownership</title>
+      <link>https://iky.li/posts/taking-extreme-ownership/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <author>ivan@iky.li (Ivan Li)</author>
+      <guid>https://iky.li/posts/taking-extreme-ownership/</guid>
+      <description>This post is a WIP.
+ I don&amp;rsquo;t claim to have a whole deal of experience with this concept, it&amp;rsquo;s a new area I&amp;rsquo;m exploring with other colleagues at work. Certainly it&amp;rsquo;s been game changing even just reflecting on how I&amp;rsquo;m approaching ownership, where it begins and where it ends.
+The concept of extreme ownership comes from the book written by Jocko Willink &amp;mdash; former US Navy SEAL leader.</description>
+    </item>
     
     <item>
       <title>Leadership Grind Lightning Talks</title>
