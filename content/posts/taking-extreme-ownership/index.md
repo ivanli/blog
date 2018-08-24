@@ -31,10 +31,20 @@ actions.
 ## And Ownership?
 
 Taking ownership to something means caring deeply about it's outcome. It's a form of commitment --- to own something is
-to be committed on doing the best to ensure it reaches the desired outcome.
+to be committed on doing the best to ensure it reaches whatever the desired outcome is.
            
-Taking ownership to the extreme is about consciously putting aside any 
+Taking extreme ownership to is about applying that on whatever you're involved in. It's about holding back that natural
+tendency to protect yourself. 
 
-It completely removes the time and energy spent in finding the answer to "who's responsible?". It shifts the focus onto 
-"I've got responsibility on this" and changes the thinking to "how am I committed to making this work out?"
+Once someone takes extreme ownership, it completely removes the time and energy spent in finding the answer to "who's 
+responsible?". It shifts the focus onto "I've got responsibility on this" and changes the thinking to "how am I 
+committed to making this work out?"
+
+# What it's not...
+
+It's not about doing everything yourself. Having ownership of something doesn't mean you're always the one doing all of
+the work. You may have others that help you complete the task. The ownership comes in to make sure that the task itself
+is done and the desired outcome is achieved.
+
+It's not about blaming. Blame and ownership are 2 very separate concepts.
 
