@@ -7,19 +7,26 @@
 
         {{ if .Params.tags }}
           <div class="blog-tags">
+            <span class="glyphicon glyphicon-tags" aria-hidden="true"></span>
             {{ range .Params.tags }}
               <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
             {{ end }}
           </div>
         {{ end }}
 
-        <div class="well">
-          <h4>Want more? Sign up for new posts straight in your inbox:</h4>
-          <form method="POST" action="https://formspree.io/ivan@iky.li">
-            <input type="text" name="name" placeholder="Your name">
-            <input type="email" name="email" placeholder="Your email">
-            <button type="submit">Sign up</button>
-          </form>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <h3>Want more?</h3>
+            <h3>New posts straight in your inbox:</h3>
+            <form method="POST" action="https://formspree.io/ivan@iky.li">
+              <div class="input-group input-group-lg">
+                <input class="form-control" type="email" name="email" placeholder="Your email" />
+                <span class="input-group-btn">
+                  <button class="btn btn-primary" type="submit">Sign up</button>
+                </span>
+              </div>
+            </form>
+          </div>
         </div>
         
         {{ if .Site.Params.socialShare }}
