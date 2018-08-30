@@ -6,7 +6,7 @@ canonifyurls  = true
 enableEmoji   = true
 metaDataFormat = "yaml"
 
-theme = "beautifulhugo"
+theme = "materialhugo"
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
