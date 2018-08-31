@@ -28,7 +28,6 @@ googleAnalytics = "UA-123606967-1"
   comments = true
   gcse = "017033768780696316302:qal6nttcwac"
 
-
 [Author]
   name = "Ivan Li"
   email = "ivan@iky.li"
@@ -42,3 +41,5 @@ googleAnalytics = "UA-123606967-1"
     name = "Tags"
     url = "tags"
     weight = 2
+
+# F5F9F8, 97A5AB, EE3F3F, A96E52, 302D30
