@@ -3,9 +3,9 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: rgb(48, 45, 48);
+  color: #404040;
   position: relative;
-  background: #F5F9F8;
+  background: #FFF;
   height: 100vh;
 }
 .container[role=main] {
@@ -29,14 +29,14 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #EE3F3F;
+  color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #EE3F3F;
+  color: #008AFF;
 }
 a:hover,
 a:focus {
@@ -95,12 +95,12 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #EE3F3F;
+  background: #0085a1;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #EE3F3F;
+  background: #0085a1;
 }
 img::selection {
   color: white;
