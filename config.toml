@@ -1,6 +1,6 @@
 baseURL = "https://iky.li"
 languageCode = "en-us"
-title = "IKY.LI - It's Ivan"
+title = "It's Ivan"
 
 canonifyurls  = true
 enableEmoji   = true
@@ -27,6 +27,7 @@ googleAnalytics = "UA-123606967-1"
   rss = true
   comments = true
   gcse = "017033768780696316302:qal6nttcwac"
+  formspree = "ivan@iky.li"
 
 [Author]
   name = "Ivan Li"
@@ -43,3 +44,5 @@ googleAnalytics = "UA-123606967-1"
     weight = 2
 
 # F5F9F8, 97A5AB, EE3F3F, A96E52, 302D30
+# F1F0EF, 6DC2DC, 0C9FE6, 5A6A87, 19304E
+# F6F6F5, AC96A4, E47D4D, D04358, 2D364B

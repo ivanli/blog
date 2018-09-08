@@ -4,7 +4,7 @@
       <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         {{ with .Content }}
         <div class="card">
-          <div class="card-body">
+          <div class="card-body text-center">
             {{.}}
           </div>
         </div>
@@ -18,7 +18,7 @@
                 <h2 class="post-title">{{ .Title }}</h2>
                 {{ if .Params.subtitle }}
                   <h3 class="post-subtitle">
-                  {{ .Params.subtitle }}
+                  {{- .Params.subtitle -}}
                   </h3>
                 {{ end }}
                 {{ if .Params.image }}
@@ -38,6 +38,7 @@
 
               {{ if .Params.tags }}
                 <div class="blog-tags">
+                  <i class="fa fa-tags" aria-hidden="true"></i> Tags:
                   {{ range .Params.tags }}
                     <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
                   {{ end }}

@@ -3,5 +3,5 @@
 
 Embedded software developer, Agile advocate, and DevOps owner at Fisher & Paykel Healthcare.
 
-[Read my README for more!](/posts/2018-08-02-read-my-readme/)
+{{< button class="btn-primary" link="/posts/read-my-readme/" >}}Read my README{{< /button >}}
 
