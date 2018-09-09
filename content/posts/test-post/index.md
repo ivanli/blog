@@ -3,6 +3,7 @@ title: "Bootstrap Test Post"
 date: 2018-08-30
 tags: ["bootstrap"]
 type: post
+draft: true
 ---
 
 # This is a h1
