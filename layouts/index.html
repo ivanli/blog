@@ -3,48 +3,47 @@
     <div class="row">
       <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         {{ with .Content }}
-        <div class="card">
-          <div class="card-body text-center">
-            {{.}}
-          </div>
+        <div class="text-center">
+          {{.}}
         </div>
         {{ end }}
-
         <div class="posts-list">
           {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
           {{ range $pag.Pages }}
-            <article class="post-preview">
-              <a href="{{ .Permalink }}">
-                <h2 class="post-title">{{ .Title }}</h2>
-                {{ if .Params.subtitle }}
-                  <h3 class="post-subtitle">
-                  {{- .Params.subtitle -}}
-                  </h3>
-                {{ end }}
-                {{ if .Params.image }}
-                <img src="{{ .Params.image }}" class="img-title" />
-                {{ end }}
-              </a>
-
-              {{ partial "post_meta.html" . }}
-              <div class="post-entry">
+          <article>
+            <div class="card my-4">
+              {{ with .Params.image }}
+              <img src="{{.}}" class="card-image-top" />
+              {{ end }}
+              <div class="card-body">
+                <a href="{{ .Permalink }}">
+                  <h4 class="card-title">{{ .Title }}</h4>
+                  {{ with .Params.subtitle }}
+                  <h6 class="card-subtitle mb-2 text-muted">{{.}}</h6>
+                  {{ end }}
+                </a>
+                <p class="card-text">
+                <small class="text-muted">
+                  {{ partial "post_meta.html" . }}
+                </small>
+                </p>
                 {{ if .Truncated }}
-                  {{ .Summary }}
-                  <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+                <p class="card-text">{{ .Summary }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-primary">{{ i18n "readMore" }}</a>
                 {{ else }}
-                  {{ .Content }}
+                <p class="card-text">{{ .Content }}</p>
                 {{ end }}
               </div>
-
               {{ if .Params.tags }}
-                <div class="blog-tags">
-                  <i class="fa fa-tags" aria-hidden="true"></i> Tags:
-                  {{ range .Params.tags }}
-                    <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
-                  {{ end }}
-                </div>
+              <div class="blog-tags text-muted card-footer">
+                <i class="fa fa-tags" aria-hidden="true"></i>
+                {{ range .Params.tags }}
+                <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+                {{ end }}
+              </div>
               {{ end }}
-            </article>
+            </div>
+          </article>
           {{ end }}
         </div>
 
