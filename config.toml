@@ -32,6 +32,10 @@ googleAnalytics = "UA-123606967-1"
 [Author]
   name = "Ivan Li"
   email = "ivan@iky.li"
+  facebook = "ivankyli"
+  github = "ivanli"
+  stackoverflow = "ivankyli"
+  instagram = "ivanky.li"
 
 [[menu.main]]
     name = "Blog"
