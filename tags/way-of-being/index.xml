@@ -1,39 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Way of Being on It&#39;s Ivan</title>
-    <link>https://iky.li/tags/way-of-being/</link>
-    <description>Recent content in Way of Being on It&#39;s Ivan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>ivan@iky.li (Ivan Li)</managingEditor>
-    <webMaster>ivan@iky.li (Ivan Li)</webMaster>
-    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://iky.li/tags/way-of-being/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Taking Extreme Ownership</title>
-      <link>https://iky.li/posts/taking-extreme-ownership/</link>
-      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
-      <author>ivan@iky.li (Ivan Li)</author>
-      <guid>https://iky.li/posts/taking-extreme-ownership/</guid>
-      <description>This post is a WIP.
- I don&amp;rsquo;t claim to have a whole deal of experience with this concept, it&amp;rsquo;s a new area I&amp;rsquo;m exploring with other colleagues at work. Certainly it&amp;rsquo;s been game changing even just reflecting on how I&amp;rsquo;m approaching ownership, where it begins and where it ends.
-The concept of extreme ownership comes from the book written by Jocko Willink &amp;mdash; former US Navy SEAL leader.</description>
-    </item>
-    
-    <item>
-      <title>Read my README</title>
-      <link>https://iky.li/posts/read-my-readme/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      <author>ivan@iky.li (Ivan Li)</author>
-      <guid>https://iky.li/posts/read-my-readme/</guid>
-      <description>This README is a documentation of me. You can get a good gist of what I do and what I&amp;rsquo;m here to achieve in the F&amp;amp;P CPAP software team.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>way-of-being on It's Ivan</title><link>https://iky.li/tags/way-of-being/</link><description>Recent content in way-of-being on It's Ivan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>ivan@iky.li (Ivan Li)</managingEditor><webMaster>ivan@iky.li (Ivan Li)</webMaster><lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://iky.li/tags/way-of-being/index.xml" rel="self" type="application/rss+xml"/><item><title>Taking Extreme Ownership</title><link>https://iky.li/posts/taking-extreme-ownership/</link><pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate><author>ivan@iky.li (Ivan Li)</author><guid>https://iky.li/posts/taking-extreme-ownership/</guid><description>This post is a WIP.
+I don&amp;rsquo;t claim to have a whole deal of experience with this concept, it&amp;rsquo;s a new area I&amp;rsquo;m exploring with other colleagues at work. Certainly it&amp;rsquo;s been game changing even just reflecting on how I&amp;rsquo;m approaching ownership, where it begins and where it ends.
+The concept of extreme ownership comes from the book written by Jocko Willink &amp;mdash; former US Navy SEAL leader. I&amp;rsquo;m currently going through this with others in a book club style, so this post will be updated as I learn more.</description></item><item><title>Read my README</title><link>https://iky.li/posts/read-my-readme/</link><pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate><author>ivan@iky.li (Ivan Li)</author><guid>https://iky.li/posts/read-my-readme/</guid><description>This README is a documentation of me. You can get a good gist of what I do and what I&amp;rsquo;m here to achieve in the F&amp;amp;P CPAP software team.
 Important: NOT a replacement for actually getting to know each other more.
-My Job I&amp;rsquo;m the outcome owner for DevOps sub-team in the CPAP software team. This means I&amp;rsquo;m ultimately accountable for the development and release processes adopted for the 3 sub-teams.</description>
-    </item>
-    
-  </channel>
-</rss>
+My Job I&amp;rsquo;m the outcome owner for DevOps sub-team in the CPAP software team. This means I&amp;rsquo;m ultimately accountable for the development and release processes adopted for the 3 sub-teams.</description></item></channel></rss>
