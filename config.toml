@@ -15,10 +15,14 @@ pygmentsStyle = "trac"
 disqusShortname = "ikyli"
 googleAnalytics = "UA-123606967-1"
 
+[markup.goldmark.renderer] 
+  unsafe= true
+
 [taxonomies]
   tag = "tags"
 
 [Params]
+  mainSections = ["post","posts"]
   commit = "https://github.com/ivanli/blog/tree/"
   subtitle = "Contains readme, blog, and possibly rants."
   logo = "img/avatar-icon.jpeg"
